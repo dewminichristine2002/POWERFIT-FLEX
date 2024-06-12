@@ -14,9 +14,9 @@
         <div class="footertabs">
         <a href="\POWERFIT FLEX\muscle buid page\mb content\mb content.php" class="footalltabs">Muscle Build</a>
         <a href="\POWERFIT FLEX\Loose Weight page\lw content.php" class="footalltabs">Lose Weight</a>
-        <a href="\POWERFIT FLEX\KeepFitPage\KeepFitPage\keepfit.php" class="footalltabs">Keep Fit</a>
+        <a href="\POWERFIT FLEX\KeepFitPage\keepfit.php" class="footalltabs">Keep Fit</a>
         <a href="\POWERFIT FLEX\food and nutri page\food and nutri page\food&nutrition.php" class="footalltabs">Food & Nutrition</a>
-        <a href="\POWERFIT FLEX\contact us\contact us\contact us page.php" class="footalltabs">Contact Us</a>
+        <a href="\POWERFIT FLEX\contact us\contact us page.php" class="footalltabs">Contact Us</a>
         </div>
     </div>
     <div class="footerbar" id="iconbar">
