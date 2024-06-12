@@ -17,7 +17,7 @@
                 <a href="\POWERFIT FLEX\muscle buid page\mb content\mb content.php" class="alltabs">Muscle Build</a>
                 <a href="\POWERFIT FLEX\Loose Weight page\lw content.php" class="alltabs">Lose Weight</a>
                 <a href="\POWERFIT FLEX\KeepFitPage\keepfit.php" class="alltabs">Keep Fit</a>
-                <a href="\POWERFIT FLEX\food and nutri page\food and nutri page\food&nutrition.php" class="alltabs">Food & Nutrition</a>
+                <a href="\POWERFIT FLEX\food and nutri page\food&nutrition.php" class="alltabs">Food & Nutrition</a>
                 <a href="\POWERFIT FLEX\contact us\contact us page.php" class="alltabs">Contact Us</a>   
             </div>
                
