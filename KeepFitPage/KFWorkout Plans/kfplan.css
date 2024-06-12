@@ -1,0 +1,45 @@
+
+body{
+    background-image:url("best-mens-workout-shirt.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+  }
+
+table, th, td {
+    border: 2px solid;
+    max-width: 100%;
+  }
+  th{
+    width: 50px;
+  }
+  table{
+    width :40%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  th {
+    height: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    background-color: rgb(212, 168, 138);
+  }
+  td {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    background-color: white;
+    padding: 0 15px;
+    
+  }
+  .tablekf{
+    text-align: center;
+  }
+  p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(233, 228, 228);
+    table-layout:auto;
+  }
+  

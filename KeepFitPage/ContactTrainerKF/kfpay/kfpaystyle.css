@@ -1,0 +1,106 @@
+
+
+    /* Reset some default browser styles */
+    body, h1, h3, label {
+        margin: 0;
+        padding: 0px;
+    }
+    
+     /*Center align the text and form */
+    .center {
+        text-align: center;
+    }
+    *{
+        border:1px solid red;
+    }
+
+    
+    /* Style the form container */
+    form {
+        max-width: 400px;
+        max-height: 300px;
+        margin: 50px;
+        padding: 55px;
+        background: #f5f5f5;
+        border: 2px black;
+        border-radius: 5px;
+    }
+    
+    
+    /* Style the card type section */
+    .card-type {
+        margin: 10px 0;
+    }
+    
+    .card-type label {
+        margin: 0 5px;
+        cursor: pointer;
+    }
+    
+    .card-type img {
+        max-width: 100%;
+    }
+    
+    /* Style input fields */
+    input[type="text"] {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    }
+    
+    /* Style the two columns */
+    .two-columns {
+        display:inline;
+        justify-content: space-between;
+    }
+    
+    /* Style the CVC input */
+    .cvc {
+        width: 40%;
+    }
+    
+    /* Style the amount select */
+    .payamount {
+        margin: 10px 0;
+    }
+    
+    select {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    }
+    
+    /* Style the buttons */
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 20px;
+    }
+    
+    button {
+        padding: 10px 20px;
+        background: #007BFF;
+        color: #fff;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    
+    /* Style the Back button */
+   .left-button{
+    float:right;
+   }
+   .right-button{
+    float: right;
+   }
+    
+    button:hover {
+        background: #0056b3; /* Darker blue on hover */
+    }
+    
+    
+    
