@@ -1,0 +1,40 @@
+
+body{
+    background-image:url("mb planbgpic.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+  }
+
+table, th, td {
+    border: 2px solid;
+  }
+  table{
+    width :80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  th {
+    height: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    background-color: rgb(212, 168, 138);
+  }
+  td {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    background-color: white;
+    padding: 0 15px;
+    
+  }
+  .tablediv{
+    text-align: center;
+  }
+  p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(233, 228, 228);
+  }
+  
